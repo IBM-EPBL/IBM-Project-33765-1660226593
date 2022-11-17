@@ -33,10 +33,10 @@
   - Project Development Phase
     - [x] Sprint 1
     - [x] Sprint 2
-    - [ ] Sprint 3
-    - [ ] Sprint 4
+    - [x] Sprint 3
+    - [x] Sprint 4
   - Final Deliverables
-    - [ ] Main Folder
+    - [x] Main Folder
     
 ### Assignments
 
